@@ -1,0 +1,7 @@
+C:\Users\himan\source\repos\CalculatorService\CalculatorService\bin\CalculatorService.dll.config
+C:\Users\himan\source\repos\CalculatorService\CalculatorService\bin\CalculatorService.dll
+C:\Users\himan\source\repos\CalculatorService\CalculatorService\bin\CalculatorService.pdb
+C:\Users\himan\source\repos\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csproj.AssemblyReference.cache
+C:\Users\himan\source\repos\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\himan\source\repos\CalculatorService\CalculatorService\obj\Debug\CalculatorService.dll
+C:\Users\himan\source\repos\CalculatorService\CalculatorService\obj\Debug\CalculatorService.pdb
